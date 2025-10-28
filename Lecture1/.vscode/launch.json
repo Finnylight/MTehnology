@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/admin/Desktop/2025-2026 /Өгөгдлийнбүтэц /Lecture1",
+      "program": "/Users/admin/Desktop/2025-2026 /Өгөгдлийнбүтэц /Lecture1/build/Debug/outDebug"
+    }
+  ]
+}
