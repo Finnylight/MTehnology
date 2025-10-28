@@ -2,7 +2,7 @@
 #include "bubble.h"
 #include "insertion.h"
 #include "selection.h"
-
+#include<bits/stdc++.h>
 int main() {
     int n, i;
     int a[100], b[100], c[100]; 
