@@ -14,7 +14,7 @@ int main() {
     for (i = 0; i < n; i++) {
         scanf("%d", &a[i]);
     }
-
+//sadsadasdsa
     for (i = 0; i < n; i++) {
         b[i] = a[i];
         c[i] = a[i];
